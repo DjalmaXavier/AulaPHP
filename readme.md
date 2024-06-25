@@ -1,4 +1,4 @@
-#Aulas de PHP
+# Aulas de PHP
 
 Esse repositorio tem como foco armazenar todo o conteudo que usei para aprender PHP, podendo conter conceitos básicos e também conceitos mais avançados.
 
