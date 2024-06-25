@@ -30,8 +30,4 @@ $capitals = array(
 $capital = ($capitals[$_POST["country"]]) ? $capitals[$_POST["country"]] : "N/A";
 
 echo $capital;
-
-
-
-
 ?>
