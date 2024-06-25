@@ -16,5 +16,5 @@ No momento, foram feitas as seguintes adições:
 10. Aula 10 - Checkboxes;
 11. Aula 11 - Functions;
 12. Aula 12 - String Functions;
-13. Aula 13 -  Include;
+13. Aula 13 - Include;
 14. Aula 14 - Cookies;
